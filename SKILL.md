@@ -3,8 +3,8 @@ name: viriditas-assessment
 description: Diagnose any situation, system, or person by identifying where life-force flows (viriditas) and where it has dried up (ariditas), revealing root causes of stagnation and paths to renewal.
 license: MIT
 metadata:
-  version: 1.0.5274
   author: sethmblack
+  version: 1.0.5275
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - viriditas-assessment
